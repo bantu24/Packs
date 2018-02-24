@@ -1,0 +1,58 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+			"name": "wallpaper1",
+			"author": "Samsung",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/UX/wallpapers/wallpaper1.jpg",
+			"category": "Architecture"
+		}
+		
+		]
+}
