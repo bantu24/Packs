@@ -1,1 +1,216 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            },
+            {
+                "name": "Other"
+            }
+        ],
+    
+	"wallpapers":
+        [
+			{
+			"name": "wallpaper 1",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 1.png",
+			"category": "Other"
+		},
+		{
+			"name": "wallpaper 2",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 2.png",
+			"category": "Other"
+		},{
+			"name": "wallpaper 3",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 3.png",
+			"category": "Other"
+        },
+        {
+			"name": "wallpaper 4",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 4.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 5",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 5.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 6",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 6.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 7",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 7.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 8",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 8.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 9",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 9.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 10",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 10.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 11",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 11.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 12",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 12.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 13",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 13.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 14",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 14.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 15",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 15.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 16",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 16.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 17",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 17.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 18",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 18.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 19",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 19.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 20",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/Android Stock Wallpaper 20.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 21",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 1.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 22",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 2.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 23",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 3.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 24",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 4.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 25",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 5.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 26",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 6.png",
+			"category": "Other"
+		},
+        {
+			"name": "wallpaper 27",
+			"author": "Google",
+			"url": "https://raw.githubusercontent.com/bantu24/Packs/master/pixel11/wallpapers/pixel 7.png",
+			"category": "Other"
+		}
+		]
+}
 
